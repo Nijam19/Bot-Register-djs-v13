@@ -12,7 +12,7 @@ app.listen(port, () => console.info(`Listening on port ${port}`));
 //package
 const { Client, Collection, Intents } = require('discord.js');
 const { readdirSync } = require('fs');
-const { TOKEN } = require('./util/config.json');
+const { MTA3NjE2MTgxNDQ2MDY0MTI4MA.GwVpfM.axcTFcTIMY1W5lg3VLwsW-kO8Vl7DM_B-t8oqI} = require('./util/config.json');
 
 //client
 const client = new Client({
