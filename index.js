@@ -1,4 +1,4 @@
-//
+Ni No//
 const express = require('express');
 const app = express();
 const port = process.env.PORT || '8080';
@@ -68,4 +68,4 @@ client.on('warn', console.warn);
 client.on('error', console.error);
 
 //token
-client.login(TOKEN);
+client.login(MTA3NjE2MTgxNDQ2MDY0MTI4MA.GwVpfM.axcTFcTIMY1W5lg3VLwsW-kO8Vl7DM_B-t8oqI);
